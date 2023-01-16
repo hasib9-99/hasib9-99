@@ -4,7 +4,7 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abuhasib/) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/hasib9.99/)
 
-Hi, This is Abu Hasib. I'm a Front end web developer. 6 month of experience of Front-end Developer Inter at Creative It.
+Hi, This is Abu Hasib. I'm a Front end web developer. 6 month of experience of Front-end Developer Inter at <b>Creative It</b>.
 
 Typically I love to work with ![Css Logo](https://img.icons8.com/fluency/16/css3.png) CSS and ![React Logo](https://img.icons8.com/office/16/000000/react.png) React JS.
 
