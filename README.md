@@ -25,7 +25,7 @@ I studied from Comilla Polytechnic Institute department of Computer Technology.
 
 <h1 align="center">Projects 🖳</h1>
 
-- [GPT-3](https://github.com/hasib9-99/hasib9-99/edit/main/README.md) - A open ai GPT-3 landing page - <a target="_blank" href="https://gpt-3-sage.vercel.app/" >Live</a>
+- [GPT-3](https://github.com/hasib9-99/gpt-_3) - A open ai GPT-3 landing page - <a target="_blank" href="https://gpt-3-sage.vercel.app/" >Live</a>
 
 - [Organic](https://github.com/hasib9-99/organic-repo) - A E-Commerce site for organic products- <a target="_blank" href="https://hasib9-99.github.io/organic-repo/" >Live</a>
 
