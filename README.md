@@ -17,10 +17,10 @@ I studied from Comilla Polytechnic Institute department of Computer Technology.
 ### ~/hasib9-99/.stacks
 
 {<br>
-  "languages"            : ["Javascript", "HTML5 (markup language)"],<br>
-  "Library & Framework"  : ["React", "Bootstrap", "TailwindCSS", "Scss", "jQuery" ],<br>
-  "Tools"                : ["VS Code", "Figma", "XD", "Discord" "Elementor"],<br>
-  "CMS"                  : ["WordPress", "Webflow", "Wix", "Framer"],<br>
+<span style="padding-left: 16px;">"languages": ["Javascript", "HTML5 (markup language)"],</span><br>
+<span style="padding-left: 16px;">Library & Framework"  : ["React", "Bootstrap", "TailwindCSS", "Scss", "jQuery" ],</span><br>
+<span style="padding-left: 16px;">"Tools": ["VS Code", "Figma", "XD", "Discord" "Elementor"],</span><br>
+<span style="padding-left: 16px;">"CMS": ["WordPress", "Webflow", "Wix", "Framer"],</span><br>
 }
 
 
