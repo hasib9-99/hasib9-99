@@ -4,14 +4,14 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/abuhasib/) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/hasib9.99/)
 
-Hi, This is Abu Hasib. I'm a Front end web developer. 2 Years of experience as a Front-end Developer at <b><a target="_blank" href="https://www.forazitech.com" >Forazi Tech</a></b>.
+Hi, This is Abu Hasib. I'm a Front end web developer. 5+ Years of experience as a Front-end Developer at <b><a target="_blank" href="https://www.forazitech.com" >Forazi Tech</a></b>.
 
 Typically I love to work with ![Css Logo](https://img.icons8.com/fluency/16/css3.png) CSS, ![React Logo](https://img.icons8.com/office/16/000000/react.png) React JS.
 
 I studied from Comilla Polytechnic Institute department of Computer Technology.
 
 <div>
-  <a target="_blank" href="https://drive.google.com/file/d/12f8YvpZMVR3vGTiCDHvNHbQNphNETbQ4/view?usp=sharing" >Download Resume </a>
+  <a target="_blank" href="https://drive.google.com/file/d/1f1L7g6AuIdgqqq9JmKl7uDNTz7YkrTBM/view" >Download Resume </a>
 </div>
 
 ### ~/hasib9-99/.stacks
@@ -20,7 +20,7 @@ I studied from Comilla Polytechnic Institute department of Computer Technology.
   "languages"            : ["Javascript", "HTML5 (markup language)"],
   "Library & Framework"  : ["React", "Bootstrap", "TailwindCSS", "Scss", "jQuery" ],
   "Tools"                : ["VS Code", "Figma", "XD", "Discord" "Elementor"],
-  "CMS"                  : ["WordPress", "Webflow", "Wix" ],
+  "CMS"                  : ["WordPress", "Webflow", "Wix", "Framer"],
 }
 
 
